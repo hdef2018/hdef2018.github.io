@@ -130,13 +130,13 @@ tr{
     float: left;
     width: 60%;
     padding: 10px;
-    height: 500px; /* Should be removed. Only for demonstration */
+    
 }
 .column2 {
     float: left;
     width: 40%;
     padding: 10px;
-    height: 500px; /* Should be removed. Only for demonstration */
+    
 }
 
 /* Clear floats after the columns */
