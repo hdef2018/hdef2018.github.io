@@ -128,13 +128,13 @@ tr{
 /* Create two equal columns that floats next to each other */
 .column1 {
     float: left;
-    width: 66%;
+    width: 60%;
     padding: 10px;
     height: 500px; /* Should be removed. Only for demonstration */
 }
 .column2 {
     float: left;
-    width: 33%;
+    width: 40%;
     padding: 10px;
     height: 500px; /* Should be removed. Only for demonstration */
 }
